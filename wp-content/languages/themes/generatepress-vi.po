@@ -1,0 +1,915 @@
+# Translation of Themes - GeneratePress in Vietnamese
+# This file is distributed under the same license as the Themes - GeneratePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-12 03:04:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - GeneratePress\n"
+
+#. Description of the theme
+msgid "GeneratePress is a lightweight WordPress theme built with a focus on speed and usability. Performance is important to us, which is why a fresh GeneratePress install adds less than 15kb (gzipped) to your page size. We take full advantage of the new block editor (Gutenberg), which gives you more control over creating your content. If you use page builders, GeneratePress is the right theme for you. It is completely compatible with all major page builders, including Beaver Builder and Elementor. Thanks to our emphasis on WordPress coding standards, we can boast full compatibility with all well-coded plugins, including WooCommerce. GeneratePress is fully responsive, uses valid HTML/CSS and is translated into over 25 languages by our amazing community of users. A few of our many features include microdata integration, 9 widget areas, 5 navigation locations, 5 sidebar layouts, dropdown menus (click or hover) and navigation color presets. Learn more and check out our powerful premium version at https://generatepress.com"
+msgstr "GeneratePress là theme WordPress rất nhẹ và được thiết kế tập trung vào tốc độ và tính dễ sử dụng. Hiệu suất rất quan trọng với chúng tôi, đó là lý do tại sao bản cài đặt GeneratePress ít hơn 15kb (file nén gzip). Chúng tôi tận dụng tối đa trình sửa block (Gutenberg), cho phép bạn kiểm soát nhiều khi viết nội dung. Theme hoàn toàn tương thích với các page builder, bao gồm Beaver Builder và Elementor. Nhờ tập trung theo chuẩn code của WordPress, chúng tôi tin tưởng theme tương thích tốt với các plugin có code sạch, bao gồm WooCommerce. GeneratePress có responsive, sử dụng chuẩn HTML/CSS và đã được dịch ra hơn 25 ngôn ngữ bởi cộng đồng người dùng. Theme có nhiều tính năng nổi bật như tương thích microdata, 9 wdiget, 5 menu, 5 layout sidebar, menu thả xuống (bấm hoặc di chuột) và màu menu mặc định. Tìm hiểu thêm về phiên bản trả phí tại https://generatepress.com"
+
+#. Theme Name of the theme
+#: inc/structure/footer.php:83
+msgid "GeneratePress"
+msgstr "GeneratePress"
+
+#: inc/typography.php:658
+msgid "Heading 3 (H3)"
+msgstr "Heading 3 (H3)"
+
+#: inc/typography.php:511
+msgid "Heading 2 (H2)"
+msgstr "Heading 2 (H2)"
+
+#: inc/typography.php:364
+msgid "Heading 1 (H1)"
+msgstr "Heading 1 (H1)"
+
+#: inc/dashboard.php:257
+msgid "Reset Settings"
+msgstr "Khôi phục cài đặt"
+
+#: inc/dashboard.php:243
+msgid "Visit documentation &rarr;"
+msgstr "Xem tài liệu hướng dẫn &rarr;"
+
+#: inc/dashboard.php:242
+msgid "Want to learn more about the theme? Check out our extensive documentation."
+msgstr "Muốn tìm hiểu thêm về theme? Xem tài liệu hướng dẫn của chúng tôi."
+
+#: inc/dashboard.php:227
+msgid "Start Customizing"
+msgstr "Bắt đầu tùy chỉnh"
+
+#: inc/dashboard.php:217
+msgid "All Options"
+msgstr "Toàn bộ tùy chọn"
+
+#: inc/dashboard.php:212
+msgid "Layout Options"
+msgstr "Tùy chọn layout"
+
+#: inc/dashboard.php:207
+msgid "Customize Colors"
+msgstr "Tùy chỉnh màu sắc"
+
+#: inc/dashboard.php:202
+msgid "Customize Fonts"
+msgstr "Tùy chỉnh Font"
+
+#: inc/dashboard.php:197
+msgid "Upload Logo"
+msgstr "Tải lên Logo"
+
+#: inc/customizer.php:969
+msgid "Dropdown Direction"
+msgstr "Hướng dropdown"
+
+#: inc/customizer.php:912
+msgid "The width when the navigation ceases to float and drops below your logo."
+msgstr "Chiều rộng khi menu tràn xuống bên dưới logo của bạn."
+
+#: inc/customizer.php:911
+msgid "Navigation Drop Point"
+msgstr "Điểm Drop Menu"
+
+#: inc/customizer.php:699
+msgid "Navigation Left"
+msgstr "Menu trái"
+
+#: inc/customizer.php:698
+msgid "Navigation Right"
+msgstr "Menu phải"
+
+#: inc/customizer.php:697
+msgid "Navigation After - Centered"
+msgstr "Menu sau giữa"
+
+#: inc/customizer.php:696
+msgid "Navigation Before - Centered"
+msgstr "Menu trước - giữa"
+
+#: inc/customizer.php:691
+msgid "Header Presets"
+msgstr "Preset Header"
+
+#: inc/customizer.php:386
+msgid "Blue"
+msgstr "Xanh biển"
+
+#: inc/customizer.php:385
+msgid "Green"
+msgstr "Xanh lá"
+
+#: inc/customizer.php:384
+msgid "Red"
+msgstr "Đỏ"
+
+#: inc/customizer.php:383
+msgid "Grey"
+msgstr "Xám"
+
+#: inc/customizer.php:382
+msgid "White"
+msgstr "Trắng"
+
+#: inc/customizer.php:380 inc/customizer.php:694
+msgid "Current"
+msgstr "Hiện tại"
+
+#: inc/customizer.php:376
+msgid "Navigation Color Presets"
+msgstr "Màu preset menu"
+
+#: inc/customizer.php:354
+msgid "Blog Post Title Hover"
+msgstr "Màu tiêu đề bài viết khi di chuột"
+
+#: inc/customizer.php:333
+msgid "Blog Post Title"
+msgstr "Tiêu đề bài viết blog"
+
+#: inc/customizer.php:182
+msgid "Logo Width"
+msgstr "Chiều rộng logo"
+
+#: inc/structure/footer.php:82
+msgctxt "GeneratePress"
+msgid "Powered by"
+msgstr "Được hỗ trợ bởi"
+
+#: inc/structure/navigation.php:347
+msgid "Mobile Menu"
+msgstr "Menu di động"
+
+#: inc/structure/footer.php:106
+msgid "Footer Widget"
+msgstr "Widget Footer"
+
+#: inc/meta-box.php:240
+msgid "Premium module available"
+msgstr "Tính năng cao cấp"
+
+#: inc/dashboard.php:259
+msgid "Deleting your settings can not be undone."
+msgstr "Xóa cài đặt không thể hoàn tác."
+
+#: inc/dashboard.php:155
+msgid "Premium Modules"
+msgstr "Module trả phí"
+
+#: inc/customizer.php:1355
+msgid "Cache CSS generated by your options to boost performance."
+msgstr "Tăng hiệu suất bằng cách tạo cache CSS từ thiết lập của bạn."
+
+#: inc/customizer.php:1354
+msgid "Cache dynamic CSS"
+msgstr "Cache CSS động"
+
+#: inc/customizer.php:1334
+msgid "Load essential Font Awesome icons instead of the full library."
+msgstr "Tải icon Font Awesome cần thiết thay vì toàn bộ thư viện."
+
+#: inc/customizer.php:1333
+msgid "Load essential icons only"
+msgstr "Chỉ tải icon cần thiết"
+
+#: inc/customizer.php:1314
+msgid "General"
+msgstr "Cài đặt chung"
+
+#: inc/customizer.php:1286
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: inc/customizer.php:1282
+msgid "Content Type"
+msgstr "Kiểu nội dung"
+
+#: inc/typography.php:746 inc/customizer.php:518 inc/customizer.php:1302
+msgid "More options are available for this section in our premium version."
+msgstr "Nhiều tùy chọn có sẵn cho phần này trong phiên bản cao cấp của chúng tôi."
+
+#: inc/customizer.php:517
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: inc/customizer.php:159
+msgid "Retina Logo"
+msgstr "Retina Logo"
+
+#: inc/customizer.php:74
+msgid "Premium Modules Available"
+msgstr "Tính năng cao cấp"
+
+#: inc/customizer/controls/class-typography-control.php:41
+msgid "Variants"
+msgstr "Biến thể"
+
+#: inc/customizer/controls/class-typography-control.php:33
+msgid "System fonts"
+msgstr "Font hệ thống"
+
+#: comments.php:111
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/customizer/controls/class-range-control.php:58
+msgid "Mobile"
+msgstr "Di động"
+
+#: inc/customizer/controls/class-range-control.php:57
+msgid "Tablet"
+msgstr "Máy tính bảng"
+
+#: inc/customizer/controls/class-range-control.php:56
+msgid "Desktop"
+msgstr "Máy tính"
+
+#: inc/meta-box.php:221
+msgid "Full Width"
+msgstr "Chiều rộng đầy đủ"
+
+#: inc/meta-box.php:210
+msgid "Choose your page builder content container type. Both options remove the content padding for you."
+msgstr "Chọn kiểu nội dung container cho trình dựng trang. Cả hai tùy chọn sẽ xóa bỏ padding của nội dung."
+
+#: inc/meta-box.php:96
+msgid "Page Builder Container"
+msgstr "Page Builder Container"
+
+#: inc/meta-box.php:141 inc/meta-box.php:146 inc/meta-box.php:156
+#: inc/meta-box.php:161 inc/meta-box.php:166
+msgctxt "Short name for meta box"
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/customizer.php:655
+msgid "Top Bar Alignment"
+msgstr "Vị trí Top Bar"
+
+#: inc/customizer.php:629
+msgid "Top Bar Inner Width"
+msgstr "Chiều rộng bên trong Top Bar"
+
+#: inc/customizer.php:603
+msgid "Top Bar Width"
+msgstr "Chiều rộng Top Bar"
+
+#: inc/general.php:75 inc/customizer.php:583
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: inc/dashboard.php:164 inc/typography.php:745 inc/customizer.php:1301
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+#: inc/dashboard.php:56
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#: inc/dashboard.php:53
+msgid "Premium"
+msgstr "Trả phí"
+
+#: inc/customizer.php:1223
+msgid "Footer Bar Alignment"
+msgstr "Footer Bar Alignment"
+
+#: inc/general.php:74
+msgid "Footer Bar"
+msgstr "Footer Bar"
+
+#: inc/customizer.php:1170
+msgid "Inner Footer Width"
+msgstr "Inner Footer Width"
+
+#: inc/customizer.php:830
+msgid "Inner Navigation Width"
+msgstr "Chiều rộng bên trong Navigation"
+
+#: inc/customizer.php:745
+msgid "Inner Header Width"
+msgstr "Chiều rộng bên trong Header"
+
+#: inc/typography.php:296
+msgid "Paragraph margin"
+msgstr "Lề đoạn văn"
+
+#: inc/typography.php:262 inc/typography.php:443 inc/typography.php:590
+#: inc/typography.php:719
+msgid "Line height"
+msgstr "Line height"
+
+#: inc/dashboard.php:266 inc/customizer/controls/class-range-control.php:59
+msgid "Reset"
+msgstr "Làm lại"
+
+#: inc/customizer.php:1125
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/meta-box.php:81 inc/customizer.php:1032
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: inc/customizer.php:785
+msgid "Primary Navigation"
+msgstr "Menu chính"
+
+#: inc/customizer.php:539
+msgid "Container"
+msgstr "Container"
+
+#: inc/structure/footer.php:228 inc/structure/footer.php:232
+msgid "Scroll back to top"
+msgstr "Di chuyển lên đầu trang"
+
+#: inc/customizer.php:1249
+msgid "Back to Top Button"
+msgstr "Nút quay về đầu trang"
+
+#: inc/customizer.php:1145
+msgid "Footer Width"
+msgstr "Độ rộng Footer"
+
+#: inc/customizer.php:949
+msgid "Click - Arrow"
+msgstr "Nhấp chuột - Mũi tên"
+
+#: inc/customizer.php:948
+msgid "Click - Menu Item"
+msgstr "Nhấp chuột - Mục menu"
+
+#: inc/customizer.php:947
+msgid "Hover"
+msgstr "Di chuột"
+
+#: inc/customizer.php:944
+msgid "Navigation Dropdown"
+msgstr "Menu Dropdown"
+
+#: inc/customizer.php:805
+msgid "Navigation Width"
+msgstr "Chiều rộng menu"
+
+#: inc/customizer.php:606 inc/customizer.php:632 inc/customizer.php:723
+#: inc/customizer.php:749 inc/customizer.php:808 inc/customizer.php:834
+#: inc/customizer.php:1148 inc/customizer.php:1174 inc/customizer.php:1285
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: inc/customizer.php:720
+msgid "Header Width"
+msgstr "Độ rộng Header"
+
+#. translators: %s: Heart icon
+#: inc/dashboard.php:293
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr "Được tạo bằng cả %s bởi Tom Usborne"
+
+#: inc/customizer.php:887
+msgid "Float Left"
+msgstr "Float Left"
+
+#: inc/dashboard.php:55
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/meta-box.php:233 inc/meta-box.php:235
+msgid "Content Title"
+msgstr "Tiêu đề nội dung"
+
+#: 404.php:55
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Có vẻ như không có gì được tìm thấy ở vị trí này. Thử tìm kiếm?"
+
+#. translators: 1: admin URL
+#: inc/structure/footer.php:121
+msgid "To remove or choose the number of footer widgets, go to <a href=\"%1$s\"><strong>Appearance / Customize / Layout / Footer Widgets</strong></a>."
+msgstr "Để gỡ bỏ hoặc chọn số widget footer, đi đến <a href=\"%1$s\"><strong>Giao diện / Tùy biến / Bố cục / Footer Widgets</strong></a>."
+
+#. translators: 1: admin URL
+#: inc/structure/footer.php:112
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets</strong></a> and dragging widgets into this widget area."
+msgstr "Thay đổi nội dung widget này bằng cách đi đến <a href=\"%1$s\"><strong>Giao diện / Widgets</strong></a> và kéo widget vào trong khu vực widget."
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm cho:"
+
+#. translators: 1: Search query name
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: no-results.php:62
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có lẽ chũng tôi không thể thấy những gì bạn đang tìm kiếm. Bạn có thể dùng tìm kiếm."
+
+#: no-results.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#. translators: 1: Admin URL
+#: no-results.php:49
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng tải bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: no-results.php:27
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: inc/structure/post-meta.php:183
+msgid "% Comments"
+msgstr "% bình luận"
+
+#: inc/structure/post-meta.php:183
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: inc/structure/post-meta.php:183
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/structure/post-meta.php:176
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Thẻ"
+
+#: inc/structure/post-meta.php:168
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Danh mục"
+
+#: inc/structure/post-meta.php:165 inc/structure/post-meta.php:173
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: inc/structure/navigation.php:257
+msgctxt "label"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/structure/post-meta.php:203 inc/structure/post-meta.php:223
+msgid "Read more"
+msgstr "Đọc tiếp"
+
+#. translators: 1: Author name
+#: inc/structure/post-meta.php:145
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#: inc/structure/post-meta.php:142
+msgid "by"
+msgstr "Bởi"
+
+#: inc/structure/comments.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang đợi xét duyệt."
+
+#. translators: 1: date, 2: time
+#: inc/structure/comments.php:48
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s vào lúc %2$s"
+
+#: inc/structure/comments.php:25
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/structure/post-meta.php:60
+msgid "Newer posts"
+msgstr "Các bài viết mới hơn"
+
+#: inc/structure/post-meta.php:56
+msgid "Older posts"
+msgstr "Bài viết cũ hơn"
+
+#: inc/structure/post-meta.php:51 inc/structure/post-meta.php:60
+msgid "Next"
+msgstr "Tiếp"
+
+#: inc/structure/post-meta.php:50 inc/structure/post-meta.php:56
+msgid "Previous"
+msgstr "Trang trước"
+
+#: inc/structure/post-meta.php:46
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/structure/post-meta.php:67 inc/deprecated.php:28
+msgid "Next &rarr;"
+msgstr "Tiếp theo &rarr;"
+
+#: inc/structure/post-meta.php:66 inc/deprecated.php:27
+msgid "&larr; Previous"
+msgstr "&larr; Trước"
+
+#: inc/dashboard.php:362
+msgid "Settings removed."
+msgstr "Đã xóa thiết lập."
+
+#: inc/dashboard.php:358
+msgid "Import successful."
+msgstr "Nhập thành công."
+
+#: inc/dashboard.php:354
+msgid "Settings saved."
+msgstr "Lưu thiết lâp."
+
+#: inc/meta-box.php:91
+msgid "Disable Elements"
+msgstr "Tắt phần tử"
+
+#: inc/dashboard.php:264
+msgid "Warning: This will delete your settings."
+msgstr "Cảnh báo: Điều này sẽ xóa thiết lập của bạn."
+
+#: inc/dashboard.php:92
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: searchform.php:17 inc/structure/navigation.php:83
+#: inc/structure/navigation.php:286 inc/structure/navigation.php:316
+#: inc/structure/navigation.php:318
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/structure/header.php:263 inc/structure/header.php:264
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: inc/structure/navigation.php:35
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/meta-box.php:202 inc/meta-box.php:204
+msgid "5 Widgets"
+msgstr "5 Widget"
+
+#: inc/meta-box.php:197 inc/meta-box.php:199
+msgid "4 Widgets"
+msgstr "4 Widget"
+
+#: inc/meta-box.php:192 inc/meta-box.php:194
+msgid "3 Widgets"
+msgstr "3 Widget"
+
+#: inc/meta-box.php:187 inc/meta-box.php:189
+msgid "2 Widgets"
+msgstr "2 Widget"
+
+#: inc/meta-box.php:182 inc/meta-box.php:184
+msgid "1 Widget"
+msgstr "1 Widget"
+
+#: inc/meta-box.php:177 inc/meta-box.php:179
+msgid "0 Widgets"
+msgstr "0 Widget"
+
+#: inc/meta-box.php:164
+msgid "Both Sidebars on Right"
+msgstr "Cả hai Sidebar bên phải"
+
+#: inc/meta-box.php:159
+msgid "Both Sidebars on Left"
+msgstr "Cả hai Sidebar bên trái"
+
+#: inc/meta-box.php:154
+msgid "Both Sidebars"
+msgstr "Cả hai Sidebar"
+
+#: inc/meta-box.php:149
+msgid "No Sidebars"
+msgstr "Không Sidebar"
+
+#: inc/meta-box.php:141 inc/meta-box.php:146 inc/meta-box.php:156
+#: inc/meta-box.php:161 inc/meta-box.php:166
+msgid "Content"
+msgstr "Nội dung"
+
+#: inc/meta-box.php:136 inc/meta-box.php:174 inc/meta-box.php:216
+#: inc/customizer.php:381 inc/customizer.php:695
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer.php:1263
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/meta-box.php:86 inc/customizer.php:1194
+msgid "Footer Widgets"
+msgstr "Widget Footer"
+
+#: inc/customizer.php:1107
+msgid "Single Post Sidebar Layout"
+msgstr "Bố cục Sidebar bài viết"
+
+#: inc/customizer.php:1079
+msgid "Blog Sidebar Layout"
+msgstr "Bố cục Sidebar Blog"
+
+#: inc/customizer.php:1059 inc/customizer.php:1087 inc/customizer.php:1115
+msgid "Content / Sidebar / Sidebar"
+msgstr "Nội dung / Sidebar / Sidebar"
+
+#: inc/customizer.php:1058 inc/customizer.php:1086 inc/customizer.php:1114
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sidebar / Sidebar / Nội dung"
+
+#: inc/customizer.php:1057 inc/customizer.php:1085 inc/customizer.php:1113
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sidebar / Nội dung / Sidebar"
+
+#: inc/meta-box.php:151 inc/customizer.php:1056 inc/customizer.php:1084
+#: inc/customizer.php:1112
+msgid "Content (no sidebars)"
+msgstr "Nội dung (không sidebar)"
+
+#: inc/customizer.php:1055 inc/customizer.php:1083 inc/customizer.php:1111
+msgid "Content / Sidebar"
+msgstr "Nội dung / Sidebar"
+
+#: inc/customizer.php:1054 inc/customizer.php:1082 inc/customizer.php:1110
+msgid "Sidebar / Content"
+msgstr "Sidebar / Nội dung"
+
+#: inc/customizer.php:1051
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/customizer.php:1022
+msgid "One Container"
+msgstr "Một Container"
+
+#: inc/customizer.php:1021
+msgid "Separate Containers"
+msgstr "Container tách biệt"
+
+#: inc/customizer.php:1018
+msgid "Content Layout"
+msgstr "Bố cục nội dung"
+
+#: inc/customizer.php:997 inc/customizer.php:1253
+msgid "Disable"
+msgstr "Tắt"
+
+#: inc/customizer.php:996 inc/customizer.php:1252
+msgid "Enable"
+msgstr "Bật"
+
+#: inc/customizer.php:993
+msgid "Navigation Search"
+msgstr "Menu tìm kiếm"
+
+#: inc/customizer.php:855
+msgid "Navigation Alignment"
+msgstr "Căn lề menu"
+
+#: inc/customizer.php:890
+msgid "No Navigation"
+msgstr "Không menu"
+
+#: inc/customizer.php:886
+msgid "Float Right"
+msgstr "Float Right"
+
+#: inc/customizer.php:885
+msgid "Above Header"
+msgstr "Trên Header"
+
+#: inc/customizer.php:884
+msgid "Below Header"
+msgstr "Dưới Header"
+
+#: inc/customizer.php:881
+msgid "Navigation Location"
+msgstr "Vị trí menu"
+
+#: inc/customizer.php:660 inc/customizer.php:775 inc/customizer.php:860
+#: inc/customizer.php:972 inc/customizer.php:1228
+msgid "Right"
+msgstr "Phải"
+
+#: inc/customizer.php:659 inc/customizer.php:774 inc/customizer.php:859
+#: inc/customizer.php:1227
+msgid "Center"
+msgstr "Chính giữa"
+
+#: inc/customizer.php:658 inc/customizer.php:773 inc/customizer.php:858
+#: inc/customizer.php:973 inc/customizer.php:1226
+msgid "Left"
+msgstr "Trái"
+
+#: inc/customizer.php:770
+msgid "Header Alignment"
+msgstr "Căn lề Header"
+
+#: inc/meta-box.php:226 inc/customizer.php:607 inc/customizer.php:633
+#: inc/customizer.php:724 inc/customizer.php:748 inc/customizer.php:809
+#: inc/customizer.php:833 inc/customizer.php:1149 inc/customizer.php:1173
+msgid "Contained"
+msgstr "Contained"
+
+#: inc/customizer.php:561
+msgid "Container Width"
+msgstr "Chiều rộng Container"
+
+#: inc/meta-box.php:53 inc/customizer.php:531
+msgid "Layout"
+msgstr "Bố cục"
+
+#: inc/customizer.php:309
+msgid "Link Color Visited"
+msgstr "Màu liên kết khi đã nhấp chuột"
+
+#: inc/customizer.php:288
+msgid "Link Color Hover"
+msgstr "Màu liên kết khi di chuột lên"
+
+#: inc/customizer.php:267
+msgid "Link Color"
+msgstr "Màu sắc liên kết"
+
+#: inc/customizer.php:246
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: inc/customizer.php:225
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: inc/customizer.php:204
+msgid "Colors"
+msgstr "Các màu"
+
+#: inc/customizer.php:137
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:116
+msgid "Hide site tagline"
+msgstr "Ẩn khẩu hiệu website"
+
+#: inc/customizer.php:97
+msgid "Hide site title"
+msgstr "Ẩn tên website"
+
+#: inc/typography.php:228 inc/typography.php:402 inc/typography.php:549
+#: inc/typography.php:686
+msgid "Font size"
+msgstr "Cỡ chữ"
+
+#: inc/customizer/controls/class-typography-control.php:39
+msgid "Text transform"
+msgstr "Kiểu chữ (in hoa, thường,..)"
+
+#: inc/customizer/controls/class-typography-control.php:38
+msgid "Font weight"
+msgstr "Font weight"
+
+#: inc/typography.php:198 inc/customizer.php:204
+msgid "Body"
+msgstr "Body"
+
+#: inc/typography.php:141
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/customizer/controls/class-deprecated.php:53
+#: inc/customizer/controls/class-typography-control.php:37
+msgid "Font family"
+msgstr "Kiểu chữ"
+
+#: inc/customizer/controls/class-deprecated.php:52
+#: inc/customizer/controls/class-typography-control.php:34
+msgid "Google fonts"
+msgstr "Font Google"
+
+#: inc/customizer/controls/class-deprecated.php:51
+msgid "Default fonts"
+msgstr "Font mặc định"
+
+#: inc/general.php:68 inc/customizer.php:671
+msgid "Header"
+msgstr "Header"
+
+#: inc/general.php:67 inc/meta-box.php:144 inc/customizer.php:888
+msgid "Left Sidebar"
+msgstr "Sidebar trái"
+
+#: inc/general.php:66 inc/meta-box.php:139 inc/customizer.php:889
+msgid "Right Sidebar"
+msgstr "Sidebar phải"
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: inc/general.php:73
+msgid "Footer Widget 5"
+msgstr "Widget footer 5"
+
+#: inc/general.php:72
+msgid "Footer Widget 4"
+msgstr "Widget footer 4"
+
+#: inc/general.php:71
+msgid "Footer Widget 3"
+msgstr "Widget footer 3"
+
+#: inc/general.php:70
+msgid "Footer Widget 2"
+msgstr "Widget footer 2"
+
+#: inc/general.php:69
+msgid "Footer Widget 1"
+msgstr "Widget footer 1"
+
+#: inc/structure/comments.php:25 inc/structure/comments.php:54
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: content-link.php:71 content.php:70 content-single.php:66 content-page.php:48
+msgid "Pages:"
+msgstr "Trang:"
+
+#: comments.php:117
+msgid "Post Comment"
+msgstr "Gửi bình luận"
+
+#: comments.php:116
+msgid "Leave a Comment"
+msgstr "Viết một bình luận"
+
+#: inc/structure/comments.php:94
+msgid "Website"
+msgstr "Trang web"
+
+#: inc/structure/comments.php:93
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: inc/structure/comments.php:92
+msgid "Name"
+msgstr "Tên"
+
+#: comments.php:107
+msgid "Comments are closed."
+msgstr "Bình luận đã đóng."
+
+#: comments.php:76 comments.php:99
+msgid "Newer Comments &rarr;"
+msgstr "Các bình luận mới hơn&rarr;"
+
+#: comments.php:75 comments.php:98
+msgid "&larr; Older Comments"
+msgstr "&larr; Những bình luận cũ hơn"
+
+#: comments.php:74 comments.php:97
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:49
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận về &ldquo;%2$s&rdquo;"
+
+#: inc/structure/sidebars.php:77
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: 404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#. Author of the theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Theme URI of the theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"

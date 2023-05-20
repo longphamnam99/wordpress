@@ -1,0 +1,4 @@
+2019-03-26T07:00:30+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\xamppp\htdocs\wordpress\wp-content\themes\ecommerce-gem\template-parts\footer-widgets.php on line 23
+
+2019-03-26T16:35:15+00:00 CRITICAL syntax error, unexpected '<' in D:\xamppp\htdocs\wordpress\wp-content\themes\ecommerce-gem\index.php on line 16
+

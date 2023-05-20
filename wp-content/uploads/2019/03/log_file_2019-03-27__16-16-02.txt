@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Nội dung trình diễn chủ đề were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\xamppp\htdocs\wordpress/wp-content/themes/ecommerce-gem/includes/demo/demo-content/content.xml
+Widget file = D:\xamppp\htdocs\wordpress/wp-content/themes/ecommerce-gem/includes/demo/demo-content/widget.wie
+Customizer file = D:\xamppp\htdocs\wordpress/wp-content/themes/ecommerce-gem/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+

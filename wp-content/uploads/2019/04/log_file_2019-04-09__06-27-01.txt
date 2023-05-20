@@ -1,0 +1,88 @@
+
+---Downloaded files---
+The import files for: Nội dung trình diễn chủ đề were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\xamppp\htdocs\wordpress/wp-content/themes/ecommerce-gem/includes/demo/demo-content/content.xml
+Widget file = D:\xamppp\htdocs\wordpress/wp-content/themes/ecommerce-gem/includes/demo/demo-content/widget.wie
+Customizer file = D:\xamppp\htdocs\wordpress/wp-content/themes/ecommerce-gem/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Lưu trữ - No Title - Imported
+
+Mua thanh bên : 
+
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Gallery ảnh - Product Gallery - Imported
+Các danh mục sản phẩm - Product categories - Imported
+Sản phẩm theo đánh giá - Top rated products - Imported
+
+Quảng cáo bên dưới thanh trượt : 
+
+eC-Gem: Quảng cáo - LADIES - Imported
+eC-Gem: Quảng cáo - FOOTWARE - Imported
+eC-Gem: Quảng cáo - SMART - Imported
+
+Khu vực tiện ích trang chủ : 
+
+eC-Gem: Ngành nghề đặc trưng - Featured Categories - Imported
+eC-Gem: CTA - Trending Season - Imported
+eC-Gem: Sản phẩm Carousel - Featured Products - Imported
+eC-Gem: Tin mới nhất - Latest News - Imported
+eC-Gem: Bản tin - Subscribe Newsletter - Imported
+
+Chân trang 1 : 
+
+Văn bản - About eCommerce Gem - Imported
+eC-Gem: Xã hội - No Title - Imported
+
+Chân trang 2 : 
+
+eC-Gem: Tiếp xúc - Contact Us - Imported
+
+Chân trang 3 : 
+
+eC-Gem: Tính năng đ - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

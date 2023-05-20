@@ -1,0 +1,1250 @@
+# Translation of Themes - Zakra in Vietnamese
+# This file is distributed under the same license as the Themes - Zakra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-01 01:34:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Zakra\n"
+
+#. Theme Name of the theme
+#: inc/helpers.php:89 inc/admin/class-zakra-admin.php:290
+msgid "Zakra"
+msgstr "Zakra"
+
+#. Description of the theme
+msgid "Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites (currently 10+ free starter sites and more will be added later) that you can use to make your site beautiful and professional. Check all the starter sites at https://demo.themegrill.com/zakra-demos/. Suitable for personal blog, portfolio, WooCommerce stores, business websites and niche-based sites (like Cafe, Spa, Charity, Yoga, Wedding, Dentist, Education etc) as well. Works with Elementor plus other major page builders so you can create any layout you want. The theme is responsive, Gutenberg compatible, SEO friendly, translation ready and major WordPress plugins compatible."
+msgstr "Zakra là giao diện đa chức năng hiện đại, gọn gàng, nhanh và linh hoạt với nhiều demo (hiện tại đang có hơn 10+ demo và còn nhiều hơn nữa) giúp bạn có được website chuyên nghiệp và thời trang. Xem tất cả demo tại https://demo.themegrill.com/zakra-demos/. Phù hợp với nhiều loại hình từ blog cá nhân cho đến cửa hàng trực tuyến sử dụng WooCommerce, website kinh doanh hay giới thiệu sản phẩm riêng lẻ. Hỗ trợ tốt với plugin Elementor hay các công cụ dựng page builder khác. Giao diện này hoạt động trên mọi thiết bị, sử dụng cùng với Gutenberg, thân thiện với SEO, có sẵn tiếng Việt và tương thích nhiều plugin WordPress phổ biến khác."
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:74 template-parts/content.php:78
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-single.php:87 template-parts/content-page.php:24
+#: template-parts/content.php:92
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ nội dung này không tồn tại. Hãy thử chức năng tìm kiếm."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có kết quả nào phù hợp với từ khoá của bạn. Hãy thử lại với từ khoá khác."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Muốn đăng bài viết đầu tiên không? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: template-parts/content.php:101
+msgid "Read More"
+msgstr "Xem tiếp"
+
+#. translators: %s: search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/admin/about-page/class-zakra-plugin-install-helper.php:93
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sửa <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:144
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:142
+#: inc/customizer/controls/php/class-zakra-fonts.php:143
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:141
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:139
+#: inc/customizer/controls/php/class-zakra-fonts.php:140
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:138
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:137
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:136
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:134
+#: inc/customizer/controls/php/class-zakra-fonts.php:135
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:133
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:132
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:131
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:130
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:129
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:128
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:127
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:126
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:125
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:123
+#: inc/customizer/controls/php/class-zakra-fonts.php:124
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:296
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:159
+#: inc/customizer/options/class-zakra-customize-base-option.php:76
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:64
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:138
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:61
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:152
+msgid "None"
+msgstr "None"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:138
+msgid "Variant"
+msgstr "Variant"
+
+#: inc/customizer/controls/php/class-zakra-customize-slider-control.php:70
+msgid "Reset"
+msgstr "Reset"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:130
+msgid "Right"
+msgstr "Phải"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:132
+msgid "Left"
+msgstr "Trái"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:131
+msgid "Bottom"
+msgstr "Dưới"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:129
+msgid "Top"
+msgstr "Trên"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:173
+msgid "Line Height"
+msgstr "Chiều cao dòng"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:143
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:303
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:162
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:295
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:39
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:152
+msgid "Fixed"
+msgstr "Fixed"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:147
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:142
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:130
+msgid "Contain"
+msgstr "Contain"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:125
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:120
+msgid "Background Size"
+msgstr "Background Size"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:114
+msgid "Center Bottom"
+msgstr "Center Bottom"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:111
+msgid "Center Center"
+msgstr "Center Center"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:108
+msgid "Center Top"
+msgstr "Center Top"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:105
+msgid "Right Bottom"
+msgstr "Right Bottom"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:102
+msgid "Right Center"
+msgstr "Right Center"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:99
+msgid "Right Top"
+msgstr "Right Top"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:96
+msgid "Left Bottom"
+msgstr "Left Bottom"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:93
+msgid "Left Center"
+msgstr "Left Center"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:90
+msgid "Left Top"
+msgstr "Left Top"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:86
+msgid "Background Position"
+msgstr "Background Position"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:80
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:77
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:74
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:71
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:67
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:60
+msgid "Select File"
+msgstr "Chọn File"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:58
+msgid "Remove"
+msgstr "Gỡ bỏ"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:55
+msgid "No File Selected"
+msgstr "Chưa chọn File nào"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:49
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:42
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:128
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:95
+msgid "Background Color"
+msgstr "Background Color"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:48
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:78
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:78
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:44
+msgid "Single Post Content Order"
+msgstr "Thứ tự nội dung bài viết"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:60
+msgid "Enable Search Icon"
+msgstr "Bật nút Tìm kiếm"
+
+#: inc/customizer/register-panels-and-sections.php:45
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:66
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:140
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:63
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:154
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:37
+msgid "Enable Header Top Bar"
+msgstr "Bật Top bar đầu trang"
+
+#: inc/customizer/options/styling/class-zakra-customize-base-colors-option.php:49
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:278
+msgid "Enable Breadcrumbs"
+msgstr "Bật chỉ dẫn"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:51
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:102
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:51
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:460
+msgid "Content"
+msgstr "Nội dung"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:49
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:49
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:434
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:50
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:50
+msgid "Meta Tags"
+msgstr "Thẻ Meta"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:45
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:74
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:45
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:74
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "Kéo và thả đối tượng để sắp xếp lại thứ tự"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:44
+msgid "Post Content Order"
+msgstr "Thứ tự nội dung bài viết"
+
+#: inc/customizer/register-panels-and-sections.php:257
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: inc/customizer/register-panels-and-sections.php:98
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:85
+msgid "Single Post"
+msgstr "Bài viết"
+
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:108
+msgid "Page"
+msgstr "Trang"
+
+#: inc/customizer/register-panels-and-sections.php:184
+msgid "Typography"
+msgstr "Định dạng font chữ"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:111
+#: inc/customizer/register-panels-and-sections.php:131
+msgid "Layout"
+msgstr "Bố cục"
+
+#: inc/customizer/register-panels-and-sections.php:121
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:262
+msgid "Breadcrumbs"
+msgstr "Chỉ mục"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:165
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:64
+msgid "Color"
+msgstr "Màu"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:78
+#: inc/customizer/register-panels-and-sections.php:21
+msgid "Header"
+msgstr "Đầu trang"
+
+#: inc/customizer/register-panels-and-sections.php:13
+msgid "Theme Options"
+msgstr "Tuỳ chọn giao diện"
+
+#: inc/class-breadcrumb-trail.php:782
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/class-breadcrumb-trail.php:755 inc/class-breadcrumb-trail.php:1195
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/class-breadcrumb-trail.php:754 inc/class-breadcrumb-trail.php:820
+#: inc/class-breadcrumb-trail.php:1193
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/class-breadcrumb-trail.php:753 inc/class-breadcrumb-trail.php:781
+#: inc/class-breadcrumb-trail.php:819 inc/class-breadcrumb-trail.php:845
+#: inc/class-breadcrumb-trail.php:1191
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/class-breadcrumb-trail.php:737
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/class-breadcrumb-trail.php:720
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/class-breadcrumb-trail.php:703
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:273
+msgid "Week %s"
+msgstr "Tuần %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:271
+msgid "Minute %s"
+msgstr "Phút %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:269
+msgid "Comment Page %s"
+msgstr "Trang bình luận %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:267
+msgid "Page %s"
+msgstr "Trang %s"
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:265
+msgid "Search results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/class-breadcrumb-trail.php:263 inc/template-functions.php:186
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/class-breadcrumb-trail.php:262
+msgid "404 Not Found"
+msgstr "404 Không tìm thấy"
+
+#: inc/class-breadcrumb-trail.php:261
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/class-breadcrumb-trail.php:260
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Chỉ mục"
+
+#: inc/class-breadcrumb-trail.php:259
+msgid "Browse:"
+msgstr "Duyệt:"
+
+#: inc/hooks/header.php:50
+msgid "Skip to content"
+msgstr "Chuyển tới nội dung"
+
+#: functions.php:128
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:158
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Chính"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Bình luận đã bị đóng."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận trong &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Một bình luận trong &ldquo;%1$s&rdquo;"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:135
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:73
+msgid "Heading"
+msgstr "Tiêu đề"
+
+#: inc/template-functions.php:284
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Xin lỗi! Trang này không tồn tại."
+
+#: inc/template-functions.php:192
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#: inc/template-functions.php:190
+msgid "Page Not Found"
+msgstr "Trang không tồn tại"
+
+#. translators: %s: year.
+#: inc/template-functions.php:183
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#. translators: %s: month
+#: inc/template-functions.php:179
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#. translators: %s: day
+#: inc/template-functions.php:175
+msgid "Day: %s"
+msgstr "Ngày: %s"
+
+#. translators: %s: author.
+#: inc/template-functions.php:165
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:110
+msgid "Tagged %1$s"
+msgstr "Từ khóa %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Chưa có bình luận<span class=\"screen-reader-text\"> trong %s</span>"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+msgid "Posted in %1$s"
+msgstr "Đăng vào ngày %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "By %s"
+msgstr "Bởi %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đăng vào lúc %s"
+
+#: inc/hooks/footer.php:255
+msgid "Scroll to top"
+msgstr "Chuyển lên trên"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:157
+msgid "Font size"
+msgstr "Kích thước chữ"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:144
+msgid "Subset(s)"
+msgstr "Subset"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:132
+msgid "Font family"
+msgstr "Font family"
+
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:39
+msgid "Disable Primary Menu"
+msgstr "Tắt menu chính"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:243
+msgid "Header Top Text Color"
+msgstr "Màu chữ đầu trang"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:181
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:207
+msgid "Select a Menu for Right Content"
+msgstr "Chọn menu cho bên phải"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:157
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:178
+msgid "Text/HTML for Right Content"
+msgstr "Text/HTML cho bên phải"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:135
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:149
+msgid "Right Content"
+msgstr "Nội dung bên phải"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:107
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:117
+msgid "Select a Menu for Left Content"
+msgstr "Chọn menu cho bên trái"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:83
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:88
+msgid "Text/HTML for Left Content"
+msgstr "Text/HTML cho bên trái"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:67
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:141
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:64
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:155
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:65
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:139
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:62
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:153
+msgid "Text/HTML"
+msgstr "Text/HTML"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:61
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:58
+msgid "Left Content"
+msgstr "Nội dung bên trái"
+
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:228
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:113
+msgid "Border Bottom Color"
+msgstr "Màu viền dưới"
+
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:194
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:85
+msgid "Border Bottom"
+msgstr "Viền dưới"
+
+#: inc/customizer/options/styling/class-zakra-customize-base-colors-option.php:104
+msgid "Border Color"
+msgstr "Màu viền"
+
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:148
+msgid "Roundness"
+msgstr "Bo tròn"
+
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:70
+msgid "Text Hover Color"
+msgstr "Màu chữ rê chuột"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:160
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:120
+msgid "Background Hover Color"
+msgstr "Màu nền rê chuột"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:96
+msgid "Hover Color"
+msgstr "Màu khi rê chuột"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:39
+msgid "Enable Scroll to Top"
+msgstr "Bật nút cuộn lên trên cùng"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:76
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:407
+msgid "Heading 6"
+msgstr "Heading 6"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:75
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:381
+msgid "Heading 5"
+msgstr "Heading 5"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:74
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:355
+msgid "Heading 4"
+msgstr "Heading 4"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:73
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:329
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:72
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:303
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:71
+#: inc/customizer/options/typography/class-zakra-customize-typography-option.php:277
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:68
+msgid "Markup"
+msgstr "Markup"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:52
+msgid "Content Area"
+msgstr "Khu vực nội dung"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:48
+msgid "Enable Page Title"
+msgstr "Bật Tiêu đề trang"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:81
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:81
+msgid "Tags"
+msgstr "Từ khóa"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:78
+msgid "Paragraph"
+msgstr "Paragraph"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:79
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:118
+msgid "Enable Read More"
+msgstr "Bật liên kết xem tiếp"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:141
+msgid "Read More Style"
+msgstr "Kiểu xem tiếp"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:132
+msgid "Sidebar Width"
+msgstr "Chiều rộng cột phụ"
+
+#: inc/meta-boxes/class-zakra-meta-box.php:39
+msgid "Page Settings"
+msgstr "Cài đặt trang"
+
+#: inc/admin/class-zakra-admin.php:115 inc/admin/class-zakra-admin.php:116
+msgid "About Zakra"
+msgstr "Về Zakra"
+
+#. translators: 1: Current Year, 2: Site Name, 3: Theme Name.
+#: inc/helpers.php:92
+msgid "Copyright &copy; %1$s %2$s. Theme: %3$s By ThemeGrill."
+msgstr "Bản quyền &copy; %1$s %2$s. Giao diện: %3$s bởi ThemeGrill."
+
+#. translators: s - theme name
+#: inc/admin/class-zakra-admin.php:119
+msgid "Welcome to %s! : Version "
+msgstr "Xin chào mừng bạn đã sử dụng giao diện %s! : Phiên bản"
+
+#: inc/admin/class-zakra-admin.php:122
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/admin/class-zakra-admin.php:124
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/admin/class-zakra-admin.php:123
+msgid "Recommended Plugins"
+msgstr "Plugin được gợi ý"
+
+#: inc/admin/class-zakra-admin.php:125
+msgid "Changelog"
+msgstr "Các thay đổi"
+
+#: inc/admin/about-page/class-zakra-plugin-install-helper.php:89
+#: inc/admin/class-zakra-admin.php:136
+msgid "Install and Activate"
+msgstr "Cài và Kích hoạt"
+
+#: inc/admin/class-zakra-admin.php:149 inc/admin/class-zakra-admin.php:151
+#: inc/admin/class-zakra-admin.php:190 inc/admin/class-zakra-admin.php:192
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:83
+#: inc/customizer/register-panels-and-sections.php:52
+#: inc/customizer/register-panels-and-sections.php:207
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:73
+#: inc/customizer/register-panels-and-sections.php:69
+#: inc/customizer/register-panels-and-sections.php:84
+#: inc/customizer/register-panels-and-sections.php:137
+msgid "General"
+msgstr " Chung"
+
+#: inc/woocommerce.php:96 inc/woocommerce.php:130
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Có vẻ như nội dung này không tồn tại. Thử chức năng tìm kiếm hoặc một trong các liên kết khác?"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:220
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:38
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:38
+msgid "Style"
+msgstr "Kiểu"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:401
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:290
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:238
+#: inc/customizer/options/styling/class-zakra-customize-link-option.php:45
+msgid "Link Color"
+msgstr "Màu liên kết"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:433
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:323
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:263
+#: inc/customizer/options/styling/class-zakra-customize-link-option.php:70
+msgid "Link Hover Color"
+msgstr "Màu rê chuột liên kết"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:101
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:101
+msgid "Content Width"
+msgstr "Chiều rộng nội dung"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:71
+msgid "Container Width"
+msgstr "Chiều rộng khung"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:39
+msgid "Container Style"
+msgstr "Kiểu khung"
+
+#: inc/admin/about-page/class-zakra-site-library.php:121
+msgid "Buy Now"
+msgstr "Mua ngay"
+
+#: inc/admin/about-page/class-zakra-site-library.php:115
+msgid "Preview"
+msgstr "Xem thử"
+
+#: inc/admin/about-page/class-zakra-site-library.php:92
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/admin/about-page/class-zakra-site-library.php:75
+msgid "Themes list"
+msgstr "Danh sách giao diện"
+
+#: inc/admin/about-page/class-zakra-plugin-install-helper.php:155
+msgid "Activating "
+msgstr "Đang kích hoạt"
+
+#: inc/admin/about-page/class-zakra-about-page.php:452
+msgid "View changelog below:"
+msgstr "Xem thay đổi bên dưới:"
+
+#: inc/admin/about-page/class-zakra-about-page.php:182
+msgid "Activating"
+msgstr "Đang kích hoạt"
+
+#: inc/admin/about-page/class-zakra-about-page.php:298
+#: inc/admin/class-zakra-admin.php:269 inc/admin/class-zakra-admin.php:272
+#: inc/admin/class-zakra-admin.php:301
+msgid "Get started with Zakra"
+msgstr "Bắt đầu với Zakra"
+
+#: inc/admin/class-zakra-admin.php:286
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:191
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:178
+msgid "Enable Transparent Header"
+msgstr "Bật đầu trang nền trong suốt"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:145
+msgid "Remove content margin"
+msgstr "Bỏ mép nội dung"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:88
+#: inc/customizer/register-panels-and-sections.php:108
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:51
+msgid "Page Header"
+msgstr "Đầu trang"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:168 functions.php:118
+msgid "Footer Four"
+msgstr "Cuối trang 4"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:167 functions.php:117
+msgid "Footer Three"
+msgstr "Cuối trang 3"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:166 functions.php:116
+msgid "Footer Two"
+msgstr "Cuối trang 2"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:165 functions.php:115
+msgid "Footer One"
+msgstr "Cuối trang 1"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:164 functions.php:114
+msgid "Sidebar Left"
+msgstr "Cột phụ trái"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:163 functions.php:113
+msgid "Sidebar Right"
+msgstr "Cột phụ phải"
+
+#: inc/customizer/register-panels-and-sections.php:174
+msgid "Button"
+msgstr "Nút"
+
+#: inc/customizer/register-panels-and-sections.php:167
+msgid "Link Colors"
+msgstr "Màu liên kết"
+
+#: inc/customizer/register-panels-and-sections.php:160
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:245
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:96
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:349
+msgid "Background"
+msgstr "Nền"
+
+#: inc/customizer/register-panels-and-sections.php:153
+msgid "Base Colors"
+msgstr "Màu cơ bản"
+
+#: inc/customizer/register-panels-and-sections.php:147
+msgid "Styling"
+msgstr "Kiểu"
+
+#: inc/customizer/register-panels-and-sections.php:114
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:31
+msgid "Page Title"
+msgstr "Tiêu đề trang"
+
+#: inc/customizer/register-panels-and-sections.php:91
+#: inc/customizer/options/layout/class-zakra-customize-layout-general-option.php:62
+msgid "Blog/Archive"
+msgstr "Blog/Lưu trữ"
+
+#: inc/customizer/register-panels-and-sections.php:78
+msgid "Post/Page/Blog"
+msgstr "Bài viết/Trang/Blog"
+
+#: inc/customizer/register-panels-and-sections.php:59
+#: inc/customizer/register-panels-and-sections.php:215
+msgid "Mobile Menu"
+msgstr "Menu trên di động"
+
+#: inc/customizer/register-panels-and-sections.php:35
+msgid "Header Main Area"
+msgstr "Khu vực đầu trang"
+
+#: inc/customizer/register-panels-and-sections.php:28
+msgid "Header Top Bar"
+msgstr "Khu vực trên cùng"
+
+#: inc/customizer/register-panels-and-sections.php:191
+msgid "Base Typography"
+msgstr "Kiểu chữ cơ bản"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:77
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:77
+msgid "Comments"
+msgstr "Bình luận"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:79
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:79
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:80
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:80
+msgid "Date"
+msgstr "Thời gian"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:108
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:337
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:258
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:213
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:45
+#: inc/customizer/options/styling/class-zakra-customize-base-colors-option.php:74
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:77
+msgid "Span"
+msgstr "Span"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:98
+msgid "Post Content"
+msgstr "Nội dung bài viết"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:208
+msgid "Remove Logo"
+msgstr "Gỡ logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:204
+msgid "Upload Logo"
+msgstr "Tải logo"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:291
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:156
+msgid "Active Menu Item Style"
+msgstr "Kiểu menu trang hiện tại"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:281
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:129
+msgid "Menu Item Active Color"
+msgstr "Màu menu trang hiện tại"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:269
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:93
+msgid "Menu Item Hover Color"
+msgstr "Màu menu rê chuột"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:257
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:61
+msgid "Menu Item Color"
+msgstr "Màu menu"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:312
+msgid "Enable Page Header"
+msgstr "Bật đầu trang"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:299
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:162
+msgid "Right Border"
+msgstr "Viền phải"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:298
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:161
+msgid "Left Border"
+msgstr "Viền trái"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:297
+#: inc/customizer/options/menu/class-zakra-customize-primary-menu-option.php:160
+msgid "Underline Border"
+msgstr "Viền gạch chân"
+
+#: inc/admin/class-zakra-admin.php:121
+msgid "Site Library"
+msgstr "Thư viện site"
+
+#: inc/admin/class-zakra-admin.php:156 inc/admin/class-zakra-admin.php:158
+msgid "Recommended plugins"
+msgstr "Plugin gợi ý"
+
+#: inc/admin/class-zakra-admin.php:144
+msgid "Customizer"
+msgstr "Tùy chỉnh"
+
+#: inc/admin/class-zakra-admin.php:143
+msgid "All Theme Options are available via Customize screen."
+msgstr "Tất cả thiết lập giao diện đều có sẵn trong giao diện Tùy chỉnh."
+
+#: inc/admin/class-zakra-admin.php:142
+msgid "Theme Customizer"
+msgstr "Tùy chỉnh"
+
+#: inc/admin/class-zakra-admin.php:199
+msgid "Support Forum"
+msgstr "Cộng đồng hỗ trợ"
+
+#: inc/admin/class-zakra-admin.php:198
+msgid "Please put it in our dedicated support forum."
+msgstr "Vui lòng gửi lên cộng đồng hỗ trợ của chúng tôi."
+
+#: inc/customizer/register-panels-and-sections.php:263
+msgid "Footer Widgets"
+msgstr "Widget chân trang"
+
+#: inc/customizer/register-panels-and-sections.php:270
+msgid "Footer Bottom Bar"
+msgstr "Thanh cuối trang"
+
+#: inc/customizer/register-panels-and-sections.php:277
+msgid "Scroll to Top"
+msgstr "Kéo lên trên"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:48
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:48
+msgid "Featured Image"
+msgstr "Ảnh đại diện"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:131
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:291
+msgid "Border Top"
+msgstr "Viền trên"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:165
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:318
+msgid "Border Top Color"
+msgstr "Màu viền trên"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:191
+msgid "Hide Widget Title"
+msgstr "Ẩn tiêu đề widget"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:55
+msgid "Footer Widgets Style"
+msgstr "Kiểu widget cuối trang"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:39
+msgid "Enable Footer Widgets"
+msgstr "Bật widget cuối trang"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:220
+msgid "Widget Title Color"
+msgstr "Màu tiêu đề widget"
+
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:102
+#: inc/customizer/options/general/class-zakra-customize-general-option.php:133
+msgid "Only works for left/ right sidebar layout"
+msgstr "Chỉ hoạt động với bố cục cột phụ"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:369
+msgid "Separator Color"
+msgstr "Màu ngăn cách"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:206
+#: inc/customizer/options/styling/class-zakra-customize-button-option.php:180
+msgid "Padding"
+msgstr "Padding"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-general-option.php:171
+msgid "Alignment"
+msgstr "Cân ngang"
+
+#: inc/customizer/options/blog/class-zakra-customize-blog-archive-option.php:73
+#: inc/customizer/options/blog/class-zakra-customize-single-blog-post-option.php:73
+msgid "Meta Tags Order"
+msgstr "Thứ tự thẻ meta"
+
+#: inc/admin/about-page/class-zakra-about-page.php:423
+msgid "Want to import any of the demos below?"
+msgstr "Muốn nhập bất kỳ demo nào bên dưới?"
+
+#: inc/admin/class-zakra-admin.php:240
+msgid "Cheatin&#8217; huh?"
+msgstr "Định lừa đảo?"
+
+#: inc/admin/class-zakra-admin.php:236
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Hành động không thể thực thi. Vui lòng tải lại trang và thử lại."
+
+#: inc/admin/class-zakra-admin.php:197
+msgid "Got theme support question?"
+msgstr "Có câu hỏi cần hỗ trợ?"
+
+#: inc/admin/class-zakra-admin.php:150 inc/admin/class-zakra-admin.php:191
+msgid "Please view our documentation page to setup the theme."
+msgstr "Vui lòng xem trang tài liệu để biết hướng dẫn cài đặt giao diện."
+
+#: inc/admin/class-zakra-admin.php:157
+msgid "Boost your site adding plugins."
+msgstr "Thêm plugin để nâng cao khả năng của website."
+
+#: inc/admin/class-zakra-admin.php:135
+msgid "Get whole site on just one click."
+msgstr "Có cả website chỉ sau một cú nhấp chuột."
+
+#: inc/admin/class-zakra-admin.php:134
+msgid "One click demo import"
+msgstr "Nhập demo chỉ trong 1 click"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:392
+msgid "List Item Border Bottom Color"
+msgstr "Màu viền dưới danh sách"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:358
+msgid "List Item Border Bottom"
+msgstr "Viền dưới danh sách"
+
+#: inc/admin/class-zakra-admin.php:117
+msgid "Zakra is beautifully designed clean WordPress blog theme. Easy to setup and has a nice set of features that make your site stand out. It is suitable for personal, fashion, food, travel, business, professional, niche and any kind of blogging sites. Comes with various demos for various purposes, which you can easily import with the help of ThemeGrill Demo Importer plugin."
+msgstr "Zakra là giao diện WordPress blog với thiết kế thoáng và đẹp. Dễ dàng cài đặt với nhiều tính năng giúp thay đổi website của bạn. Nó phù hợp để làm nhiều kiểu blog, từ cá nhân, thời trang, đồ ăn, du lịch, kinh doanh cho tới các site niche. Có sẵn nhiều phương án demo mà bạn có thể nhập với plugin hỗ trợ chỉ trong một click."
+
+#: functions.php:112
+msgid "Header Top Bar Right Sidebar"
+msgstr "Cột phải đầu trang"
+
+#: functions.php:111
+msgid "Header Top Bar Left Sidebar"
+msgstr "Cột trái đầu trang"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-zakra-admin.php:296
+msgid "Welcome! Thank you for choosing Zakra! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+msgstr "Xin chào mừng! Cảm ơn vì bạn đã chọn Zakra! Để sử dụng tối đa những gì giao diện mang lại, hãy chắc chắn bạn ghé thăm trang %1$sChào mừng%2$s."
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/zakra/"
+msgstr "https://themegrill.com/themes/zakra/"
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"

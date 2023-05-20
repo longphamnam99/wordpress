@@ -1,0 +1,181 @@
+/*
+Theme Name: App Landing Page
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.main-navigation ul ul,
+.main-navigation ul ul ul {
+    display: none;
+}
+
+.main-navigation ul li:hover > ul {
+    left: 0;
+    right: auto;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: 100%;
+    right: auto;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right: 0;
+    display: block;
+}
+
+.site-branding,
+.main-navigation li,
+.featured-on .col{
+	float: right;
+}
+
+.main-navigation li{
+	margin-right: 51px;
+	margin-left: 0;
+}
+
+.main-navigation{
+	float: left;
+}
+
+.main-navigation li:first-child{
+	margin-right: 0;
+}
+
+.features .col{
+	float: right;
+}
+
+.features .col .text{
+	padding-right: 0;
+	padding-left: 42px;
+}
+
+.features .col .icon-holder{
+	float: left;
+	margin-left: 0;
+	margin-right: 26px;
+
+}
+
+.features .col .text-holder{
+	text-align: left;
+}
+
+.features .col:last-child .icon-holder{
+	float: right;
+	margin-right: 0;
+	margin-left: 18px;
+}
+
+.features .col:last-child .text-holder{
+	text-align: right;
+}
+
+.features .col:last-child .text{
+	padding-left: 0;
+	padding-right: 26px;
+}
+
+.section-4 .col .img-holder{
+	margin-left: 0;
+	margin-right: 123px;
+}
+
+.section-5 .col,
+.site-footer .col,
+.widget.widget_app_landing_page_social_links ul li{
+	float: right;
+}
+
+.widget.widget_app_landing_page_social_links ul li{
+	margin-right: 0;
+	margin-left: 9px;
+}
+
+.widget.widget_app_landing_page_recent_post ul li .post-thumbnail, .widget.widget_app_landing_page_popular_post ul li .post-thumbnail{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.widget.widget_search .search-form input[type="search"], .search #primary .search-form input[type="search"],
+.widget.widget_search .search-form label, .search #primary .search-form label{
+	float: right;
+}
+
+.widget.widget_search .search-form input[type="submit"], .search #primary .search-form input[type="submit"]{
+	float:left;
+}
+
+#primary .post .entry-meta span{
+	margin-right: 0;
+	margin-left: 15px;
+	padding-right: 0;
+	padding-left: 15px;
+	border-right: 0;
+	display: inline-block;
+	border-left:1px solid #a9a9a9;
+}
+
+#primary .post .entry-meta span:last-child{
+	border-left: 0;
+	padding-left: 0;
+	margin-left: 0;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous{
+	float: right;
+}
+
+.comments-area .comment-body .avatar{
+	float: right;
+	margin-right: 0;
+	margin-left: 23px;
+}
+
+.comments-area .comment-body .comment-content{
+	margin-left: 0;
+	margin-right: 102px;
+}
+
+.comments-area .comment-body .reply{
+	left: 30px;
+	right: auto;
+}
+
+.comments-area .children{
+	margin-left: 0;
+	margin-right: 93px;
+}
+
+#primary .post .entry-footer .btn-readmore, .search #primary .page .entry-footer .btn-readmore{
+	float: right;
+}
+
+.page-header,
+.error404 .error-holder .search-form label,
+.error404 .error-holder .search-form input[type="search"]{
+	float: right;
+}
+
+#crumbs,
+.error404 .error-holder .search-form input[type="submit"]{
+	float: left;
+}
+
+#crumbs a{
+	display: inline-block;
+}
